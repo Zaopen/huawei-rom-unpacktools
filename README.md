@@ -1,8 +1,8 @@
-# Huawei ROM Extractor Toolkit
+# 华为 ROM 解包工具套装 / Huawei ROM Extractor Toolkit
 
 华为 ROM 解包工具套装 - 支持 HarmonyOS 4 / Android 12+
 
-[English](#english) | [中文](#中文)
+[中文](#中文) | [English](#english) 
 
 ---
 
