@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+temp/
+tmp/
+extracted/
+*_out/
+*_extracted/
+*.img
+!tools/**/*.img
+UPDATE.APP
+UPDATE.zip
+update.app
+update.zip
+*.ext4
